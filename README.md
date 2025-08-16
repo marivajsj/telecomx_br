@@ -2,6 +2,12 @@
 
 Este projeto tem como objetivo analisar os dados de clientes da TelecomX para identificar padrões e fatores que levam à evasão (churn) de clientes. A análise exploratória de dados (EDA) e a engenharia de variáveis foram realizadas para obter insights sobre o comportamento dos clientes.
 
+## Instruções para executar o notebook
+
+1. Faça o upload do arquivo `TelecomX_Data.json` para o ambiente Colab.
+2. Execute as células do notebook sequencialmente.
+3. As visualizações e conclusões serão exibidas ao longo da execução.
+
 ## 📦 Importação de Bibliotecas
 
 Foram utilizadas as bibliotecas pandas para manipulação de dados, matplotlib e seaborn para visualização, e json para carregar os dados.
